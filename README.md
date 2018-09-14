@@ -4,7 +4,7 @@ Sampel Source Code Buku [Pemrograman Web Golang](https://www.gitbook.com/book/no
 
 ## Daftar Isi
 
- * A. Programan Web Golang Dasar<span style="color: green">*</span>
+ * A. Programan Web Golang Dasar
      * [A.1. Golang Web App: Hello World](https://github.com/novalagung/pemrogramanwebgolang/tree/master/chapter-A.1-golang-web-hello-world.md)
      * [A.2. Routing http.HandleFunc](https://github.com/novalagung/pemrogramanwebgolang/tree/master/chapter-A.2-routing-http-handlefunc.md)
      * [A.3. Routing Static Assets](https://github.com/novalagung/pemrogramanwebgolang/tree/master/chapter-A.3-routing-static-assets.md)
@@ -28,7 +28,7 @@ Sampel Source Code Buku [Pemrograman Web Golang](https://www.gitbook.com/book/no
      * [A.21. HTTP Cookie](https://github.com/novalagung/pemrogramanwebgolang/tree/master/chapter-A.21-cookie.md)
      * [A.22. Configuration File](https://github.com/novalagung/pemrogramanwebgolang/tree/master/chapter-A.22-configuration-file.md)
      * [A.23. RDBMS MySQL](https://github.com/novalagung/pemrogramanwebgolang/tree/master/chapter-A.23-sql.md)
- * B. Pemrograman Web Golang Lanjut<span style="color: green">*</span>
+ * B. Pemrograman Web Golang Lanjut
      * [B.1. Echo Framework & Routing](https://github.com/novalagung/pemrogramanwebgolang/tree/master/chapter-B.1-echo-routing.md)
      * [B.2. Parsing HTTP Request Payload (Echo)](https://github.com/novalagung/pemrogramanwebgolang/tree/master/chapter-B.2-parsing-http-request-payload-echo.md)
      * [B.3. HTTP Request Payload Validation (Validator v9, Echo)](https://github.com/novalagung/pemrogramanwebgolang/tree/master/chapter-B.3-http-request-payload-validation.md)
@@ -60,8 +60,6 @@ Sampel Source Code Buku [Pemrograman Web Golang](https://www.gitbook.com/book/no
      * [B.29. Protobuf](https://github.com/novalagung/pemrogramanwebgolang/tree/master/chapter-B.29-golang-protobuf-implementation.md)
      * [B.30. gRPC + Protobuf](https://github.com/novalagung/pemrogramanwebgolang/tree/master/chapter-B.30-golang-grpc-protobuf.md)
      * [B.31. Dockerize Golang App](https://github.com/novalagung/pemrogramanwebgolang/tree/master/chapter-B.31-golang-dockerize-app.md)
-
-<span style="color: green">*</span> Tidak ada source code untuk bab tersebut
 
 ## Lisensi
 
