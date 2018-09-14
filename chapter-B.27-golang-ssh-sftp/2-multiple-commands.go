@@ -3,10 +3,11 @@ package main
 import (
 	"bytes"
 	"fmt"
-	"golang.org/x/crypto/ssh"
 	"io/ioutil"
 	"log"
 	"strings"
+
+	"golang.org/x/crypto/ssh"
 )
 
 func PublicKeyFile(file string) ssh.AuthMethod {
@@ -66,8 +67,8 @@ func main() {
 	}
 
 	commands := []string{
-		"cd /data/goapp",
-		"cd src/eaciit/scbhouseview",
+		"cd /where/is/the/gopath",
+		"cd src/myproject",
 		"ls",
 		"exit",
 	}
